@@ -10,4 +10,4 @@ Your solution should not violate other SOLID principles.
 
 # UML Class Diagram
 
-![Uploading SOLID Principles with Design Pattern.jpeg…]()
+![SOLID Principles with Design Pattern](https://github.com/lloydestrada/SOLID-with-Design-Pattern/assets/142376663/f8e7d3de-eb85-4801-a826-f475da36be10)
